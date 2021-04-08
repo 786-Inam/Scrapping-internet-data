@@ -1,2 +1,2 @@
 # Scrapping-internet-data
-Scrapping the Flipkart data
+ Here, I have scrapped the flipkart data with the beautiful soup module
